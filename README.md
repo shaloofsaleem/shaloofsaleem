@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shaloof Saleem
 =============================================================================================================================
 
-Devops | Django | Continuous- learning/ Continuous-improvement
+Self taught - Python Backend 🐍& Machine Learning📊 - Django | PSQ| Bootstrap | Aws | Git |
 --------------------------------------------------------------
 
 Self taught - Python Backend 🐍& Machine Learning📊 . I have a strong foundation in web development using the Django framework and , and I recently discovered a passion for Machine Learning . I have been self-studying Machine learning and computer vision are exciting and rapidly growing fields with many potential applications. OpenCV (Open Source Computer Vision Library) is a popular open-source library for computer vision tasks such as image and video processing, object detection and tracking, and machine learning.. My passion for self-learning and continuous improvement drives me to constantly seek out new opportunities to grow and develop my skills.
