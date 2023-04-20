@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Akshay sanil</h1>
+<h1 align="center">Hi 👋, I'm Shaloof Saleem</h1>
 <h3 align="center">Passionate Machine learning engineer</h3>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysanil&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysanil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysanil&label=Profile%20views&color=0e75b6&style=flat" alt="shaloofsaleem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaysanil" alt="akshaysanil" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaysanil" alt="shaloofsaleem" /></a> </p>
 
 - 🔭 I’m currently working on **Blood drop detection**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Machine learning, Deep learning, Computer Vision,Yolo**
 
-- 📫 How to reach me **akshaysanil125@gmail.com**
+- 📫 How to reach me **shaloofsaleem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
